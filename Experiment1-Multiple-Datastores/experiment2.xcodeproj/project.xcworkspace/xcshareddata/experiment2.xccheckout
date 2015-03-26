@@ -10,6 +10,8 @@
 	<string>experiment2</string>
 	<key>IDESourceControlProjectOriginsDictionary</key>
 	<dict>
+		<key>350CAE8948E2E67C71260D3516273C2F96DC5A97</key>
+		<string>https://github.com/HANICA/MAD-student-MartijnHols.git</string>
 		<key>46287D04DA36371B2486C82374F4E6CE54E48EE9</key>
 		<string>https://github.com/MartijnHols/MAD-HealthKit-Experimenten.git</string>
 	</dict>
@@ -17,6 +19,8 @@
 	<string>Experiment1-Multiple-Datastores/experiment2.xcodeproj</string>
 	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
 	<dict>
+		<key>350CAE8948E2E67C71260D3516273C2F96DC5A97</key>
+		<string>../../../..</string>
 		<key>46287D04DA36371B2486C82374F4E6CE54E48EE9</key>
 		<string>../../..</string>
 	</dict>
@@ -28,6 +32,14 @@
 	<string>46287D04DA36371B2486C82374F4E6CE54E48EE9</string>
 	<key>IDESourceControlProjectWCConfigurations</key>
 	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>350CAE8948E2E67C71260D3516273C2F96DC5A97</string>
+			<key>IDESourceControlWCCName</key>
+			<string></string>
+		</dict>
 		<dict>
 			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
 			<string>public.vcs.git</string>

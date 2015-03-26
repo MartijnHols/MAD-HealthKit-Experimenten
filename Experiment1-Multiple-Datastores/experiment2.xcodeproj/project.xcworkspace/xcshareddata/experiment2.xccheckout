@@ -14,11 +14,11 @@
 		<string>https://github.com/MartijnHols/MAD-HealthKit-Experimenten.git</string>
 	</dict>
 	<key>IDESourceControlProjectPath</key>
-	<string>experiment2.xcodeproj</string>
+	<string>Experiment1-Multiple-Datastores/experiment2.xcodeproj</string>
 	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
 	<dict>
 		<key>46287D04DA36371B2486C82374F4E6CE54E48EE9</key>
-		<string>../..</string>
+		<string>../../..</string>
 	</dict>
 	<key>IDESourceControlProjectURL</key>
 	<string>https://github.com/MartijnHols/MAD-HealthKit-Experimenten.git</string>
